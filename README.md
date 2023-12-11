@@ -40,6 +40,3 @@ Ideally, a full implementation would allow for running a set of [benchmarks in t
  while measuring their timeout rate using the following my local hardware (laptop) and UGC Linux. 
  
 However, to make sure we have something of value, the first checkpoint will require testing for soundness (not optimization necessarily.) The annotated JSON files can be compared with atomic files as the model checker would normally work, and make use of the existing and working framework for smaller programs that succeed without this optimization (using smaller programs with a maximum of $2^3$ threads).
-
-**Team members:**
-@jpramos-me for now.
