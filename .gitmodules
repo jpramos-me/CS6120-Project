@@ -1,0 +1,3 @@
+[submodule "harmony-optimization"]
+	path = harmony-optimization
+	url = git@github.com:jpramos-me/harmony-optimization.git
